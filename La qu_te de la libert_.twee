@@ -1,0 +1,786 @@
+:: StoryTitle
+La quête de la liberté
+
+
+:: StoryData
+{
+  "ifid": "848617DA-77FE-4247-8E6E-02949E26D320",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "Introduction",
+  "tag-colors": {
+    "fiche-personnage-madeleine": "purple"
+  },
+  "zoom": 1
+}
+
+
+:: Arrivée à la bastille {"position":"1625,250","size":"100,100"}
+//INT. Bastille. A la tombée de la nuit Léonard conduit madeleine les mains dans le dos,quelques larmes glissent le long de ses joues. 
+Ils chuchotent.//
+
+(bg:(hsl:30, 0.6, 0.4))[ LEONARD ]
+Nous y sommes! Ton père doit sûrement être dans l’une de ses cages.
+
+(bg:(hsl:300,0.8039,0.5,0.5))[MADELEINE]
+J’espère que tu as raison. Mon chemin a été long, je ne peux plus reculer.
+
+//Elle continue d'avancer. Léonard fait semblant de la jeter dans l’une des cellules.//
+
+(bg:(hsl:300,0.8039,0.5,0.5))[MADELEINE]
+Père? êtes vous là?
+
+//Madeleine peine à trouver son père. Elle questionne tous les bagnards. Soudain…//
+
+(bg:(hsl:120,0.8039,0.5,0.4))[LAURENT]
+Madeleine? C’est toi?
+
+(bg:(hsl:300,0.8039,0.5,0.5))[MADELEINE]
+Oui ! Je suis venue te sortir de ce trou à rat. Tu n’es là que par caprice du roi. Il est temps que la cour comprenne que nous sommes tous égaux sous le ciel.
+
+(bg:(hsl:120,0.8039,0.5,0.4))[LAURENT]
+Ma fille , je suis fière de tes paroles et courage. Tout ce chemin pour ton vieux père. Ne tardons pas, il est temps de partir.
+
+LEONARD
+Pressons! Pressons! J’entends des pas.
+
+(bg:(hsl:120,0.8039,0.5,0.4))[LAURENT]
+Qui est ce jeune homme?
+
+(bg:(hsl:300,0.8039,0.5,0.5))[MADELEINE]
+Un… ami, Léonard, m'a aidé à te retrouver et maintenant nous devons partir tous ensemble. 
+
+[[L'évasion]]
+
+
+:: Arrivée à la capitale {"position":"1175,250","size":"100,100"}
+//EXT. Madeleine arrive enfin à Paris exténuée de ce périple. Cette fatigue s’estompe néanmoins à la simple vision des rues de la capitale. 
+
+<img src="https://www.larousse.fr/encyclopedie/data/images/1313265-Plan_de_Paris_en_1789.jpg" alt="Plan de la capitale en 1789 width="600" height="500">
+
+Se balader dans ce nouvel environnement intrigue la jeune fille qui n’a jamais été dans une ville si grande et mouvementée. Afin de reprendre ses esprits et réfléchir à la suite, elle trouve une petite ruelle et décide de s’y cacher pour la nuit. Elle commence alors à élaborer son plan//
+
+(bg:(hsl:300,0.8039,0.5,0.5))[MADELEINE]
+Demain il faut que je trouve la prison où a été enfermé mon père et que je m’y introduise. Comment vais-je faire… Comment être sûre de trouver quelqu'un qui connaît l’emplacement de la prison sans éveiller les soupçons ?
+
+//Madeleine fixe le ciel et pose la main sur sa tête pour réfléchir avant de de s'exclamer.//
+
+(bg:(hsl:300,0.8039,0.5,0.5))[MADELEINE]
+Je sais! Je n’ai qu’à regarder où se rendent les gardes la prochaine fois que j’en vois un. Il me mènera forcément à mon père. Et ensuite… euh… Je n'ai qu’à attendre que l'un d' eux s’endorme pour lui voler son trousseau de clé.
+
+//Rassurée par son idée, elle s’allonge sur le sol et s’endort.//
+
+[[Le Hasard des Allées]]
+[[L’Audace face au Pouvoir]]
+[[Un Jeu de Sang-Froid]]
+
+
+:: CHARLOTTE\  {"position":"300,400","size":"100,100"}
+(bg:(hsl:60,0.8039,0.5,0.5))[Charlotte]
+Charlotte est une femme d’une grande intelligence et d’une patience infinie. En tant qu’institutrice, elle consacre sa vie à transmettre le savoir et à éveiller l’esprit critique des enfants du village. Elle croit fermement que l’éducation est la clé pour construire un monde plus juste et égalitaire.
+
+Charlotte est un pilier pour Laurent. Elle le soutient dans ses combats, même si elle vit dans l’angoisse permanente qu’il ne soit arrêté ou pire, exécuté pour ses opinions. 
+
+C'est une mère aimante et protectrice pour Madeleine. Elle admire la fougue et le courage de sa fille, tout en tentant de la garder sur un chemin moins dangereux que celui de son père. Mais elle sait que Madeleine partage l'esprit rebelle de Laurent et qu’il serait vain de l’empêcher de suivre sa voie.
+
+Physiquement, Charlotte est gracieuse et simple. Ses cheveux châtains sont souvent relevés en un chignon pratique, et ses mains sont légèrement abîmées par l’écriture et les travaux manuels qu’elle effectue pour subvenir aux besoins de la famille. 
+
+<img src="https://i.pinimg.com/736x/aa/8b/72/aa8b7218aba129ebdf8e0d2a5fd3874b.jpg" alt="Portrait de Charlotte" >
+
+
+:: DEBUT DU PERIPLE {"position":"550,125","size":"100,100"}
+//EXT. dans le jardin, 2h du matin
+
+À la nuit tombée, Madeleine en profite pour s’échapper de chez elle. Elle prend avec elle de quoi manger quelques jours et se changer. 
+
+Pris par l'adrénaline, Madeleine oubli sa peur et cours sans se retourner toute la nuit dans l’espoir d’arriver “rapidement” à secourir son père. Au alentours de 4h du matin, la nuit est noir, madeleine avance aveuglement dans des chemins épineux et gadoueux. Au petit matin, elle est fatiguée, déjà à bout de force, elle n’a pas l’habitude de marcher autant. La jeune fille décide de s'arrêter pour se reposer un peu et manger un morceau de pain. Elle reprend la route peu avant midi.//
+
+[[Première confrontation]]
+
+
+:: Dans l’Ombre des Révoltés {"position":"800,125","size":"100,100"}
+//Voyant les gardes monter le ton, Madeleine cherche du regard une solution pour s’échapper de cette situation. Si les gardes commencent à poser trop de questions, elle n’est pas sûre de bien savoir mentir. Hors de question de mettre en péril son plan. 
+
+Tout d’un coup, des bruits de cris et de fourches se font entendre près de l’église. Les gardes se retournent, cherchant d’où provient ce soudain vacarme. Une horde de révolutionnaires sort de la rue, les chants révolutionnaires fusent. Ils s’approchent des gardes déterminés.//
+
+(bg:(hsl:0,1,0.5))[ REVOLUTIONNAIRE 1]
+Vous n’avez rien à faire ici ! (hurle) Partez retrouver votre roi ! 
+
+//Madeleine voit là un moyen parfait pour s’extirper de l’attention des gardes qui ont basculé leur intérêt sur le groupe. Ni une ni deux, la jeune fille prend la fuite vers une ruelle éloignée. Elle se cache des gardes, reprend son souffle. Il ne lui reste que peu de temps avant que les hommes remarquent sa fuite. Madeleine se faufile pour entrer dans le groupe de révolutionnaires.//
+
+(bg:(hsl:0,1,0.5))[ REVOLUTIONNAIRE 2]//(prend le bras de Madeleine)//
+Qu’est- ce que tu fais ? C’est dangereux, rentre chez toi. 
+
+(bg:(hsl:300,0.8039,0.5,0.5))[MADELEINE] 
+Je dois me rendre à Paris, c’est urgent ! Si les gardes l’apprennent, ils m’arrêteront ! 
+
+(bg:(hsl:0,1,0.5))[ REVOLUTIONNAIRE 2]
+Je vais faire diversion et toi tu cours vers la maison en brique vers la colline. Tu pourras reprendre la route mais fais attention. 
+
+//Madeleine n’a pas le temps de remercier l’homme qu’il entraîne ses compagnons à attaquer les gardes. Elle court vers le chemin indiqué par le révolutionnaire sans se retourner.//
+
+
+[[L’Épreuve des Brigands]]
+
+
+:: Entre Larmes et Courage {"position":"1050,125","size":"100,100"}
+//Le brigand s’approche, s’approche de madeleine… Qui se rend.//
+
+(bg:(hsl:120,1,0.25))[ BRIGAND 1]
+Eh chef ! vous allez être content ! Regardez qui j’ai trouvé.
+
+(bg:(hsl:120, 1, 0.9))[ CHEF DES BRIGANDS]
+Ohhh mais c’est une bien sale jeune fille. Que fais tu seule sur une route comme celle ci et dans un état pitoyable comme le tien.
+
+(bg:(hsl:300,0.8039,0.5,0.5))[MADELEINE]
+Rien, pitié, épargnez moi.
+
+(bg:(hsl:120, 1, 0.9))[ CHEF DES BRIGANDS]
+Vous entendez cela messieurs! Elle ne fait rien ici et elle voudrait qu’on lui laisse la vie sauve. En échange de quel bien pourrions nous te laisser partir?
+
+(bg:(hsl:300,0.8039,0.5,0.5))[MADELEINE]
+Je…Je n’ai rien, s’il vous plaît, laissez une pauvre fille comme moi. 
+
+//Les brigands se mettent à rire. puis commence à la bousculer.//
+
+(bg:(hsl:120, 1, 0.9))[ CHEF DES BRIGANDS]
+Stop! Arrêtez. On dirait bien que vous avez un joli pendentif autour du cou. En échange de votre bijou on vous laissera partir. 
+
+(bg:(hsl:300,0.8039,0.5,0.5))[MADELEINE]
+Non, prenez mes vivres mais pas mon pendentif, il est cher a mon coeur. C’est la seule chose qui porte bonheur pendant mon périple. 
+
+(bg:(hsl:120, 1, 0.9))[ CHEF DES BRIGANDS]
+Eh bien, ma chère, on dirait que nous avons trouvé un marché. Donne nous ton bien pernicieux et tu reprendras la route aussi vite que tu es arrivée.
+
+(bg:(hsl:300,0.8039,0.5,0.5))[MADELEINE]
+Puisque je n’ai pas le choix… Tenez.
+
+//Madeleine peiné par cet échange poursuit sa route.//
+
+[[Arrivée à la capitale]]
+
+
+
+:: Introduction {"position":"50,250","size":"100,100"}
+//Nous sommes en 1789,la France est un royaume en ébullition. 
+
+Alors que la société reste enfermée dans les rigidités de l’Ancien Régime, avec ses privilèges, nous, peuple français, l’immense majorité de la population, ploie sous le poids des injustices. La misère s’accroît, alimentée par des crises économiques et des récoltes désastreuses, tandis que les idées des Lumières tente d'éveiller chez beaucoup un désir ardent de liberté et d’égalité.
+
+Dans ce climat d’inégalités et de tensions, le pouvoir vacillant de Louis XVI est contesté. La convocation des États généraux, en mai 1789, ouvre la voie à une révolte populaire : un cri de colère contre l’oppression et l’arbitraire. L’effervescence gagne les campagnes et les villes, annonçant une révolution qui bouleversera l’ordre établi.
+
+C’est dans cette époque de trouble, où tout semble basculer entre espoir et chaos, que s’écrit l’histoire de (bg:(hsl:300,0.8039,0.5,0.5))[[MADELEINE]], pris dans les tourments d’un monde en pleine transformation.//
+
+[[LE DÉJEUNER DE FAMILLE]]
+
+
+
+:: L'amour de leur vie {"position":"2075,350","size":"100,100"}
+//EXT.Quelques années après la mort du père. Madeleine et Léonard sont restés ensemble et s'apprêtent maintenant à se marier. En ce jour si spécial Madeleine regrette qu’il ne ne soit plus présent. Elle et sa mère sont dans une chambre et se préparent pour la cérémonie. Madeleine contemple sa robe blanche avec émotion.//
+
+(bg:(hsl:300,0.8039,0.5,0.5))[MADELEINE]
+J’aurais aimé qu’il voit ça.
+
+(bg:(hsl:60,0.8039,0.5,0.5))[CHARLOTTE] 
+Il aurait adoré j’en suis certaine. Tu es magnifique ma fille.
+
+
+//Madeleine sourit à sa mère mais une larme coule au coin de son œil.//
+
+(bg:(hsl:300,0.8039,0.5,0.5))[MADELEINE]
+Je sais mais il me manque.
+
+//Charlotte saisit alors le collier que Laurent avait donné à Madeleine avant de mourir. Ce dernier n’a jamais quitté son cou depuis lors. //
+
+(bg:(hsl:60,0.8039,0.5,0.5))[CHARLOTTE] 
+Il est avec nous et le sera toujours dans nos cœurs. Il t’accompagnera à l’autel à sa manière. 
+
+(bg:(hsl:300,0.8039,0.5,0.5))[MADELEINE]
+Merci maman.
+
+//Les deux femmes se font un câlin.//
+
+(bg:(hsl:60,0.8039,0.5,0.5))[CHARLOTTE]//Sur un ton amusée//
+En plus c’est grâce à lui que tu as rencontré ce très cher Léonard. Tu devrais remercier ton père. 
+
+(bg:(hsl:300,0.8039,0.5,0.5))[MADELEINE]
+Ahah c’est vrai. Sacré papa.
+
+(bg:(hsl:60,0.8039,0.5,0.5))[CHARLOTTE] 
+Il serait tellement fière de toi. Et il aurait adoré Léonard. Alors ne t’en fais pas ma fille et vas te marier.
+
+(bg:(hsl:300,0.8039,0.5,0.5))[MADELEINE]
+Allons-y !
+
+
+
+
+:: L'évasion {"position":"1775,250","size":"100,100"}
+//EXT. de la bastille vers 4h du matin 
+
+Ils sortent de la prison pour fuir sauf que des gardes ont entendu un attroupement 
+Les soldats armés s’approchent du petit groupe.//
+
+[[Madeleine Contre le Destin]]
+[[Le Destin de Léonard]]
+[[La Dernière Leçon d’un Père]]
+
+
+:: LAURENT {"position":"150,400","size":"100,100"}
+(bg:(hsl:120,0.8039,0.5,0.4))[Laurent], 
+C'est un homme de conviction, animé par un profond sens de la justice et de l’honnêteté. Son métier de journaliste n’est pas seulement une profession, mais une mission : celle de dénoncer le pouvoir royal et de défendre les droits du peuple. Laurent n’hésite pas à écrire des articles critiques envers la monarchie, la corruption de la noblesse, et les inégalités sociales. Son franc-parler lui attire de nombreux ennemis, notamment au sein de la cour royale. 
+
+C'est un homme profondément humain et aimant. Il chérit sa femme Charlotte, avec qui il partage sa vie. Il est également très proche de sa fille Madeleine, qu’il considère comme un esprit libre et courageux, bien qu’il s’inquiète parfois de sa témérité.
+
+Physiquement, Laurent a une stature moyenne mais robuste, marquée par des années de labeur et de longues nuits d’écriture. Son regard est vif, et ses mains sont encore pleine d’encre des plumes qu’il manie. 
+
+<img src="https://c7.alamy.com/compfr/2t696k8/costume-de-roturier-ou-sans-culotte-revolution-francaise-1793-il-porte-une-casquette-phrygienne-rouge-avec-cocarde-tricolore-manteau-carmagnole-marron-chemise-pantalon-sabots-ou-sabots-et-tient-un-brochet-homme-du-peuple-arme-d-une-pique-lithographie-coloriee-a-la-main-de-lorenzo-bianchi-et-domenico-cuciniello-d-apres-hippolyte-lecomte-de-costumi-civili-e-militari-della-monarchia-francese-dal-1200-al-1820-naples-1825-edition-italienne-des-costumes-civils-et-militaires-lecomtes-de-la-monarchie-francaise-de-1200-a-1820-2t696k8.jpg"alt="Portrait de Laurent" width="200" height="300">
+
+
+:: LE DÉJEUNER DE FAMILLE {"position":"225,250","size":"100,100"}
+//INT.  maison familiale, midi, soupe choux, ambiance détendue chaleureuse
+Midi, la famille se réunit pour manger un morceau autour de la table. Charlotte sert la soupe de choux.//
+
+(bg:(hsl:120,0.8039,0.5,0.4))[[LAURENT]] 
+c’est tout ce qu’il nous reste?
+
+(bg:(hsl:60,0.8039,0.5,0.5))[[CHARLOTTE ]]
+oui (soupir), rien n’a survécu à l’hiver dernier….
+
+(bg:(hsl:300,0.8039,0.5,0.5))[MADELEINE]
+c’est deja ca, merci maman
+
+(bg:(hsl:60,0.8039,0.5,0.5))[CHARLOTTE]
+Demain il faudra encore éclaircir la soupe
+
+//Charlotte s’installe au côté de son mari. La famille commence à déguster la soupe quotidienne.//
+
+(bg:(hsl:300,0.8039,0.5,0.5))[MADELEINE]
+au moins nous nous sommes réunis ensemble!
+
+(bg:(hsl:120,0.8039,0.5,0.4))[LAURENT] 
+certes mais nous ne devons oublier de nous battres pour nos droits, pour tous nos camarades.
+
+(bg:(hsl:300,0.8039,0.5,0.5))[MADELEINE]
+En quoi cela nous concerne? Ce n'est pas notre bataille. nous vivons convenablement. 
+
+(bg:(hsl:120,0.8039,0.5,0.4))[LAURENT]
+Tu sais madeleine, c'est important. Nous vivons dans une monarchie qui ignore son peuple. ce même peuple qui fait vivre le royaume et le pays entier. Mon cher ami, jacques, un camarade d’enfance s’est battu comme nous, pour nous. Malheureusement la garde sur ordre de la couronne est venu le condamner. Être résistant est synonyme de danger pour la haute société mais il en va de soi de notre avenir. 
+
+(bg:(hsl:300,0.8039,0.5,0.5))[MADELEINE]
+Comment le roi ne peut agir en conséquence? “le peuple” remplit chaque jour les cahiers de doléances. 
+
+(bg:(hsl:120,0.8039,0.5,0.4))[LAURENT]
+Ce n'est que pure comédie. Le roi se fourvoie s' il pense relever son pays grâce à de simples cahiers. Les dégâts de son règne sont beaucoup plus grands que cela. 
+
+//Après avoir débarrasser et pris le temps de nettoyer. La famille part.//
+
+
+[[L’ARRESTATION DE LAURENT]]
+
+
+
+:: La Dernière Leçon d’un Père {"position":"1925,350","size":"100,100"}
+//EXT. Juste devant la Bastille.//
+
+(bg:(hsl:30, 0.6, 0.4))[ LEONARD ] 
+Madeleine, ils arrivent. On doit partir maintenant !
+
+(bg:(hsl:300,0.8039,0.5,0.5))[MADELEINE] 
+Non il doit venir avec nous ! Je n’ai pas fait tout ce périple pour rien.
+
+(bg:(hsl:120,0.8039,0.5,0.4))[LAURENT] 
+Madeleine, écoute-moi. Je suis affaibli, j’ai passé mes derniers jours emprisonnés je n’ai plus la force. Sauve-toi avec Léonard. 
+
+(bg:(hsl:300,0.8039,0.5,0.5))[MADELEINE] 
+Non je ne peux pas… penses à maman qui t’attend, pense à moi, pense à notre famille.
+
+(bg:(hsl:120,0.8039,0.5,0.4))[LAURENT] 
+Va, ma fille. C’est mon choix. Vis pour nous deux. Tu diras à ta mère que je l’aime. 
+
+//Laurent tend son collier qu’il avait sur lui à sa fille.//
+
+(bg:(hsl:120,0.8039,0.5,0.4))[LAURENT] 
+Léonard prend soin de ma fille.
+
+//Le père fait un pas vers les soldats, les mains en l’air. Le soldat n’hésite pas une seconde à tirer. Laurent s’écroule sur le sol. Madeleine est déjà loin, mais tourne la tête et voit son père, inconscient sur le sol et les gardes se précipiter vers eux.//
+
+[[L'amour de leur vie]]
+
+
+:: Le Destin de Léonard {"position":"1925,100","size":"100,100"}
+//EXT. Juste devant la Bastille.//
+
+(bg:(hsl:30, 0.6, 0.4))[ LEONARD ]
+Madeleine, sauve ton père. Je vais les retenir.
+
+(bg:(hsl:300,0.8039,0.5,0.5))[MADELEINE]
+Non ! Je ne peux pas te laisser !
+
+(bg:(hsl:30, 0.6, 0.4))[ LEONARD ] 
+Tu le dois, c’est lui que tu es venue chercher, tu n’as pas fait tout cela pour rien, va t’en.
+
+//Leonard trouve une barre de fer et se met devant Madeleine et son père pour les protéger.//
+
+(bg:(hsl:30, 0.6, 0.4))[ LEONARD ] 
+COUREZ ! JE VOUS REJOINDRAI
+
+(bg:(hsl:120,0.8039,0.5,0.4))[LAURENT] 
+Viens ma fille, il va s’en sortir c’est un brave soldat.
+
+//Madeleine suit son père, ils courent aussi vite qu’ils peuvent. Un bruit sourd de fusil retentit, Madeleine tourne la tête, Leonard au sol,le hurlement de Madeleine retentit dans toute la ville. C’est trop tard pour lui.. //
+
+[[Les Retrouvailles d’une Famille]]
+
+
+:: Le Hasard des Allées {"position":"1325,125","size":"100,100"}
+//EXT. Après un sommeil léger, Madeleine reprit ses esprits et mit son plan à exécution. Malheureusement ce n’est pas de tout repos, Madeleine aperçoit un garde qui semble hésiter une fraction de seconde à l'arrêter. Une jeune fille ici, à cette heure là, le garde trouve ça suspect. Elle décide de tourner les talons et de changer de direction pour fuir le garde.//
+
+(bg:(hsl:30,1,0.5))[GARDE]  
+Alte jeune fille ! Vos papiers, tout de suite.
+
+//Voyant que la fille ne répond pas, le garde crie pour alerter ses collègues et se met à sa poursuite. Madeleine commence à presser le pas et doit esquiver des passants, contourner des recoins.//
+
+(bg:(hsl:300,0.8039,0.5,0.5))[MADELEINE] 
+Pardon, excusez-moi!
+
+//Elle réussit à semer le garde grâce à sa connaissance d’une ruse. Ayant gardé un vieux bout de tissu, elle décide de le mettre sur sa tête, de vouter son dos et de se faire passer pour une vieille dame. Ce dissimulant dans une foule de personnes près d’un marché.
+
+Après avoir semé le garde, Madeleine avance prudemment dans les ruelles sombres. Son cœur bat encore vite, mais elle reste confiante, bien décidée à mener à bien son plan. Soudain, au détour d’une allée, elle trébuche légèrement et percute un autre garde. Le choc est léger, mais leurs regards se croisent… //
+
+[[Quand l’Ennemi Devient un Allié]]
+
+
+:: Les Liens Forgés dans le Deuil {"position":"2075,225","size":"100,100"}
+//EXT. Quelques jours après la mort de Madeleine, ses parents et léonard se retrouvent autour d'une croix en bois plantée dans la terre en son honneur. La mère pleure alors que les deux hommes discutent.//
+
+(bg:(hsl:120,0.8039,0.5,0.4))[LAURENT] 
+Cette croix fera office de tombe. C’est dommage que nous n'ayons pas pu récupérer son corps. Ces saligauds m’auront vraiment tout pris.
+
+(bg:(hsl:30, 0.6, 0.4))[ LEONARD ] 
+C’est de ma faute, je m’en veut. 
+
+(bg:(hsl:120,0.8039,0.5,0.4))[LAURENT] 
+Et moi donc !
+
+(bg:(hsl:30, 0.6, 0.4))[ LEONARD ] 
+Je n’aurais pas dû la laisser y aller. J’aurais dû mourir à sa place. Si seulement je m’étais interposée elle aurait pu partir et s’enfuir avec vous.Je suis désolé monsieur. Pardon madame d’avoir pris votre fille. Vous devez m’en vouloir et je le comprends. Je ne suis qu’un bon à rien si vous voulez me tuer vous pouvez le faire je ne m’interposerai pas. C’est tout ce que je mérite. 
+
+(bg:(hsl:120,0.8039,0.5,0.4))[LAURENT] 
+Reprends toi mon petit. Tu n’as pas à t’en vouloir tu as déjà beaucoup donné en trahissant tes collègues et en aidant un pauvre vieil homme moi alors que tu ne connaissais pas. Je ne t’en veut pas. Je pense plutôt être celui à blâmer. J’ai failli à mon rôle de père en la laissant me sauver, j’aurais dû lui dire de me laisser moisir en prison. Cela aurait mieux valu.
+
+(bg:(hsl:60,0.8039,0.5,0.5))[CHARLOTTE] 
+Allons bon tu connais ta fille une fois qu'elle a une idée en tête c’est impossible de la l’empêcher d’agir. Moi je n’en veux à aucun de vous deux. Si elle s’est sacrifié pour que vous viviez, c'est qu’elle le voulait. Vous devez continuer de vivre pour elle. C’est à l’armée et au Roi que j’en veux ; ils n’ont aucun cœur.
+
+(bg:(hsl:30, 0.6, 0.4))[ LEONARD ] //rire nerveux//
+Moi c’est le roi qui m’en veut maintenant, je ne sais même plus où aller. Ma propre famille ne veut plus que je revienne chez elle.
+
+//A l’énonciation de cette phrase Charlotte se tourne vers Laurent et lui intime d’un geste de parler.//
+
+(bg:(hsl:120,0.8039,0.5,0.4))[LAURENT]
+Écoute mon petit, on a bien réfléchi avec Charlotte et si notre fille s’est sacrifié pour toi c’est qu’elle t'aimait bien. Alors nous aussi on t’aime bien. On veut te proposer de vivre avec nous. On est pas très riche on a pas grand choses à offrir. Mais bon, t’as déjà prouvé ce que tu valais , tu m’a déjà sauvé. Et puis, on a un ennemi commun maintenant
+ 
+//Léonard n’en croit pas ses oreilles.//
+
+(bg:(hsl:30, 0.6, 0.4))[ LEONARD ] 
+Merci. On va continuer de se battre contre le roi. Ensemble !
+
+
+
+
+:: Les Retrouvailles d’une Famille {"position":"2075,100","size":"100,100"}
+//EXT. Après quelques jours à se cacher et fuir les gardes. Le père et la fille finissent par se faire oublier. Ils décident alors de rentrer chez eux voir Charlotte, morte d’inquiétude.//
+
+(bg:(hsl:300,0.8039,0.5,0.5))[MADELEINE]
+Maman ! Maman ! C’est nous ! Nous revoilà.
+
+//La mère en les voyant court dans leur bras et lâche un soupir de soulagement.//
+
+(bg:(hsl:60,0.8039,0.5,0.5))[CHARLOTTE] 
+ Vous voilà enfin. Je suis soulagée. Au village tout le monde vous disait déjà morts.
+
+(bg:(hsl:120,0.8039,0.5,0.4))[LAURENT] 
+C’est ce qui aurait bien failli arriver si ce garde nous n' était pas venue en aide. Paix à son âme.
+
+//Il tourne la tête vers Madeleine et tous deux échangent un regard triste.//
+
+
+(bg:(hsl:300,0.8039,0.5,0.5))[MADELEINE]
+N’en parlons plus pour aujourd’hui.
+
+(bg:(hsl:120,0.8039,0.5,0.4))[LAURENT]
+Madeleine … Je voudrais te remercier d’avoir pris tant de risques pour moi. Je n’en ai jamais autant demandé. Merci, tu es vraiment une fille formidable je suis fière de toi.
+
+(bg:(hsl:60,0.8039,0.5,0.5))[CHARLOTTE] 
+Aller à table je vous ai fait de la soupe.
+
+
+
+
+:: L’ARRESTATION DE LAURENT {"position":"325,125","size":"100,100"}
+//EXT. place publique, scène d’extérieur, 
+14 h. la famille s’est rendue sur la place pour exprimer son désaccord avec la propagande du roi. L’ambiance est révolutionnaire et tendue//
+
+(bg:(hsl:120,0.8039,0.5,0.4))[LAURENT]  
+Mes chers lecteurs, je reviens vous informer armée de ma gazette, que l'heure est fort pressante ! Notre souverain demeure sourd à nos supplications et nous abandonne à la misère et à la faim ! Il est temps de nous soulever et de mettre un terme à ce système qui ne se soucie que des riches, en nous piétinant sans vergogne ! 
+
+(bg:(hsl:210,0.8039,0.5,0.5))[GARDE 1]
+Monsieur Vigneault ! nous venons sur ordre du roi, vous arrêtez pour diffamation et critique du roi ! veuillez nous suivre !
+
+(bg:(hsl:120,0.8039,0.5,0.4))[LAURENT] 
+NON! laissez moi vous délivrer la vérité et la bien pensée du peuple ! je ne suis qu’un humble journaliste faisant mon travail pour le bien du pays.
+
+(bg:(hsl:210,0.8039,0.5,0.5))[GARDE 1]
+Pas si humble, si l'on lit vos pamphlets dans votre "chère gazette" ! Ces feuillets sont subversifs. A travers vos mots, vous attaquez la République, et sème le doute parmi le peuple ! Vous semez le trouble et la division ! Le peuple est fragile et vos mots enveniment les esprits. Ce ne sont pas de simples vérités, ce sont des flèches dirigées contre la Nation !
+
+(bg:(hsl:120,0.8039,0.5,0.4))[LAURENT] 
+Des mots, oui, mais des vérités, garde ! Est-ce un crime que de parler franchement? j'écris pour le bien de la Nation ! Comment le peuple peut-il se libérer des chaînes s'ils ne savent pas de quoi est faite la couronne ? On nous parle de Liberté, mais voyez la corruption, l’hypocrisie… Est-ce un crime de vouloir dénoncer cela ?
+
+(bg:(hsl:210,0.8039,0.5,0.5))[GARDE 1]
+Ces écrits, ce sont des appels à la rébellion déguisés. Et pour cela, je te conduis à la capitale te faire punir.
+
+(bg:(hsl:120,0.8039,0.5,0.4))[LAURENT] 
+//(résigné)// Alors, que la couronne juge si la vérité est un crime. Mais souvenez-vous, garde : étouffer les mots, c’est comme écraser un feu. Cela le fait parfois éclater plus fort encore.
+
+//Les gardes saisissent de force le père devant un public abasourdi, sans lui permettre de dire au revoir à sa fille.//
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Garde_nationale_sucre_IMG_2242.JPG/800px-Garde_nationale_sucre_IMG_2242.JPG" alt="Image de la garde national en 1789 width="200" height="300">
+
+[[Pour l'Honneur d'un Père]]
+
+
+
+:: L’Audace face au Pouvoir {"position":"1325,250","size":"100,100"}
+//EXT. Après un sommeil léger, Madeleine reprit ses esprits et mit son plan à exécution. Malheureusement ce n’est pas de tout repos, Madeleine aperçoit un garde qui semble hésiter une fraction de seconde à l'arrêter. Une jeune fille ici, à cette heure là, le garde trouve ça suspect. 
+
+Madeleine tente une approche risquée en confrontant le garde directement. Elle exige de savoir pourquoi elle est arrêtée, jouant sur l’indignation.//
+
+(bg:(hsl:300,0.8039,0.5,0.5))[MADELEINE] 
+Puis-je savoir pourquoi vous me suivez? Je suis extrêmement pressé, je dois aller retrouver ma mère, qui m’avait envoyé en ville chercher ses médicaments.
+
+(bg:(hsl:30,1,0.5))[GARDE]  
+Je procède à une simple patrouille, nous devons vérifier les papiers d'identité des citoyens, après cela vous serez libre.
+
+(bg:(hsl:300,0.8039,0.5,0.5))[MADELEINE] 
+Je n’ai vraiment pas le temps avec vos idioties, la dernière fois qu’un garde m'a demandé de m'arrêter pour présenter mes papiers, il est resté me parler de sa vie pendant 1 heure. Vous comprenez pourquoi je préfère éviter les détours.
+
+(bg:(hsl:30,1,0.5))[GARDE ]  
+Très bien, mais la prochaine fois que je tombe sur vous, méfiez-vous.
+
+//Après avoir convaincu le garde de la laisser passer, Madeleine avance prudemment dans les ruelles sombres. Son cœur bat encore vite, mais elle reste confiante, bien décidée à mener à bien son plan. Soudain, au détour d’une allée, elle trébuche légèrement et percute un autre garde. Le choc est léger, mais leurs regards se croisent… //
+
+[[Quand l’Ennemi Devient un Allié]]
+
+
+:: L’Échappée Nocturne {"position":"1050,350","size":"100,100"}
+//Le brigand s’approche, s’approche de madeleine… Il la voit. Elle croise son regard. Elle sait que si elle reste figée par la peur, elle ne pourra pas poursuivre sa route avant le lendemain après-midi. Elle court aussi vite qu’elle le peut. Elle tente partout les moyens de le semer.// 
+
+(bg:(hsl:120,1,0.25))[ BRIGAND 1]
+Ehhhhhhhhh, toi la bas! Reviens! Il y a une fille. Y a une fille ! 
+
+//En se retournant le brigand a quitté des yeux madeleine qui s’est caché. Il reste quelques instants à tourner en rond. Il ne la trouve pas et décide de retourner sur ses pas. Madeleine craque, elle éclate en sanglots et personne ne peut l’aider. Elle est seule, triste et apeurée. Elle s’endort ainsi. Le lendemain matin elle reprend la route, après une journée de marche elle est enfin arrivée aux portes de la capitale.//
+
+[[Arrivée à la capitale]]
+
+
+
+:: L’Épreuve des Brigands {"position":"925,250","size":"100,100"}
+//EXT. route fréquenté régulièrement par des brigands
+Après cette frayeur, Madeleine a repris la route vers l’entrée de la capitale, plus déterminée.
+
+Au loin, près d’un bois, Madeleine aperçoit une troupe d’hommes. Ils ont plutôt l’air de brutes avec des couteaux et d’autres armes en tout genre. Elle s’approche discrètement pour entendre leur conversation.//
+
+(bg:(hsl:120,1,0.25))[ BRIGAND 1]
+Patron, y' a plus personne qui passe par là… Pourquoi on irait pas piller des villages ? Désormais avec la répression royale aucun citoyen ne veut se rendre à la capitale.
+
+(bg:(hsl:120, 1, 0.9))[ CHEF DES BRIGANDS]
+Tais-toi abruti! Tu ne sais donc pas que le royaux est plus stricte que jamais. Bientôt le peuple se rebellera contre la haute. A ce moment précis nous pourrons piller tous ces pauvres. 
+
+//Madeleine en avançant fait craquer une branche. Elle retient son souffle et espère que la troupe ne l’a pas entendu.//
+
+(bg:(hsl:120,1,0.25))[ BRIGAND 1]
+M’sieur, vous avez entendu?
+
+(bg:(hsl:120, 1, 0.9))[ CHEF DES BRIGANDS]
+Quoi encore? tu veux une prime?
+
+(bg:(hsl:120,1,0.25))[ BRIGAND 1]
+Mais non enfin oui…Mais là… Il y a eu un bruit, je crois qu’il y a quelqu’un tout près.
+
+(bg:(hsl:120, 1, 0.9))[ CHEF DES BRIGANDS]
+Et bah alors qu'est ce que t’attend cherche donc ce fameux bruit.
+
+
+[[L’Échappée Nocturne]]
+[[Entre Larmes et Courage]]
+
+
+
+:: MADELEINE {"position":"150,75","size":"100,100"}
+(bg:(hsl:300,0.8039,0.5,0.5))[MADELEINE] : 
+
+Madeleine est une jeune fille à l’esprit vif et au cœur noble, héritant à la fois de la douceur et de la sensibilité de sa mère, et de la passion ardente pour la justice de son père. Elle a grandi dans une maison où les livres, les idées, et les discussions engagées étaient omniprésents.
+
+Malgré son jeune âge, Madeleine est déterminée, vaillante, et courageuse. Elle partage avec sa mère une sensibilité rare, mais n’hésite pas à agir avec audace lorsqu’elle estime qu’une cause en vaut la peine. En elle brûle une flamme révolutionnaire, une volonté de transformer le monde pour le rendre meilleur.
+
+Madeleine est très attachée à ses parents, qu’elle admire chacun à leur manière. Son père est un modèle d’intégrité et de courage intellectuel ; elle aspire à poursuivre son combat pour la liberté, quitte à en payer le prix. Sa mère, avec sa douceur et sa patience, est un refuge dans les moments d’incertitude. 
+
+Physiquement, Madeleine incarne une beauté discrète et naturelle. Ses cheveux bruns, souvent tressés pour ne pas entraver ses mouvements, encadrent un visage fin et expressif. 
+
+<img src="https://image.over-blog.com/nvCQpT_00M55sOltwRy3uFt7saQ=/filters:no_upscale()/image%2F0964005%2F20220809%2Fob_8c728b_22828526075-cd56d5c935-o.jpg" alt="Portrait de madeleine" width="200" height="300">
+
+
+:: Madeleine Contre le Destin {"position":"1925,225","size":"100,100"}
+//EXT. Juste devant la Bastille.//
+
+(bg:(hsl:300,0.8039,0.5,0.5))[MADELEINE] 
+Léonard prend mon père. Partez par la porte arrière.
+
+(bg:(hsl:30, 0.6, 0.4))[ LEONARD ]
+Quoi ? Madeleine, non ! Je ne pars pas sans toi !
+
+(bg:(hsl:300,0.8039,0.5,0.5))[MADELEINE] 
+Il n’y a pas de temps à perdre ! Si on reste, on mourra tous les trois. Laisse-moi gagner du temps.
+
+//Avant que Léonard ne puisse répondre, Madeleine se lance vers les soldats, une barre de fer à la main.//
+
+(bg:(hsl:300,0.8039,0.5,0.5))[MADELEINE] 
+Partez... Vivez ! Sauvez vous.
+
+//Malheureusement, Madeleine ne fait pas le poids face à 5 soldats armés jusqu'au dents. L’un d’eux fusil braqué sur la jeune fille et tire. Léonard et Laurent, les yeux remplis de larmes, disparaissent dans l'obscurité.//
+
+[[Les Liens Forgés dans le Deuil]]
+
+
+:: Pour l'Honneur d'un Père {"position":"425,250","size":"100,100"}
+//Sa mère après avoir appris la disparition de son mari est désespérée et lui demande de l’aider pour sauver son père//
+
+(bg:(hsl:60,0.8039,0.5,0.5))[CHARLOTTE]//en pleurant//
+Madeleine ! Ma chère fille c’est horrible, ils ont enlevé ton père. Qu’allons nous faire. Ils l’ont emmené à Paris pour le faire emprisonner. Ils l’accusent d’avoir menti sur le roi. Ils veulent le guillotiner. J’ai peur de Madeleine !
+
+(bg:(hsl:300,0.8039,0.5,0.5))[MADELEINE]
+Mère ! Ne t’inquiète pas je vais aller le chercher. Je pars tout de suite. Je veux me battre pour sauver sa vie et ses idées. 
+
+(bg:(hsl:60,0.8039,0.5,0.5))[CHARLOTTE]
+Non, n’y vas pas Madeleine. C’est trop dangereux. De tous les gens qui ont essayé de s’opposer à la garde, aucun n’est revenu vivant. Il vaut mieux rester discret et nous faire oublier. Il ne faut plus participer à ses actes de rébellion.
+
+(bg:(hsl:300,0.8039,0.5,0.5))[MADELEINE]
+Mère, ça n’est pas ce qu’il voudrait. Il ne m’a pas élevé comme ça. Il m’a appris à faire valoir nos valeurs et nos idées. Je refuse de me taire et attendre qu’on mon père se fasse tuer par des menteurs et des manipulateurs. Le roi fait régner la violence pour nous faire peur et nous faire. Mais nous devons défendre nos droits. Je vais aller le chercher.
+
+(bg:(hsl:60,0.8039,0.5,0.5))[CHARLOTTE]
+Non Madeleine, je suis ta mère je t’ordonne de rester ici. Je refuse de perdre plus de membres de ma famille. Sans toi je ne suis plus rien. A partir de maintenant tu resteras à la maison avec moi.
+
+(bg:(hsl:300,0.8039,0.5,0.5))[MADELEINE]
+Mais….
+
+(bg:(hsl:60,0.8039,0.5,0.5))[CHARLOTTE] //commence à lever la voix//
+Il n’y a pas à discuter, petite sotte.
+
+//Madeleine fuit dans sa chambre en silence, sachant qu’il n’y a plus moyen de convaincre sa mère. Durant la nuit, elle n’arrive pas à dormir et prend la décision de partir quand même.//
+
+[[DEBUT DU PERIPLE]]
+
+
+
+:: Première confrontation {"position":"675,250","size":"100,100"}
+//EXT. sur un chemin dans la campagne, près d’un village, 16h 
+
+En marche depuis plusieurs heures, Madeleine voit au loin un petit village, l’idéal pour se reposer quelques instants. Elle réajuste ses affaires et se dirige d’un pas déterminé. 
+
+A quelques mètres de l’église du village, quatres silhouettes vêtu d’une veste bleu marine et uniforme blanc mènent la garde en se baladant. Fusil sous le bras, les hommes de la garde royale aperçoivent Madeleine au loin. //
+
+(bg:(hsl:30,1,0.5))[GARDE 1] 
+Halte mademoiselle ! Où allez-vous comme ça ? 
+
+(bg:(hsl:300,0.8039,0.5,0.5))[MADELEINE] //(prise de peur)//
+Je reviens de ma promenade. Je rentre chez moi, la maison en pierre juste là. (montre une maison du doigt)
+Bonne journ-
+
+(bg:(hsl:30,1,0.5))[GARDE 1] 
+Vous partez de chez vous avec autant d’affaires ? Sortez vos papiers s’il vous plaît. 
+
+//Madeleine commence à chercher dans ses poches ses papiers d’identité. Avec autant d’affaires sur elle, la recherche prend du temps ce qui impatiente les gardes.//
+
+(bg:(hsl:30,1,0.5))[GARDE 1]  
+Bon c’est pour aujourd’hui ou pour demain ?!
+
+//Voyant les gardes monter le ton, Madeleine. . .  //
+
+
+[[Une Alliée Inattendue]]
+[[Dans l’Ombre des Révoltés]]
+
+
+
+:: Quand l’Ennemi Devient un Allié {"position":"1475,250","size":"100,100"}
+//EXT. Devant une taverne, madeleine trbuché et bouscule un jeune homme.//
+
+(bg:(hsl:300,0.8039,0.5,0.5))[MADELEINE] //chuchote à elle même//
+Pardonnez moi je suis maladroite.
+
+(bg:(hsl:30, 0.6, 0.4))[ JEUNE HOMME]
+Ne vous excusez pas. C'est moi qui vous a bousculé.
+
+(bg:(hsl:300,0.8039,0.5,0.5))[MADELEINE]
+Que faites-vous à la capitale?
+
+(bg:(hsl:30, 0.6, 0.4))[ JEUNE HOMME]
+Je suis contraint de travailler pour aider financièrement ma famille.
+
+(bg:(hsl:300,0.8039,0.5,0.5))[MADELEINE]
+Je comprends, j’aide également mon père dans son travail. Puis-je vous demander votre emploi ?
+
+(bg:(hsl:30, 0.6, 0.4))[ JEUNE GARDE]
+Je me suis engagé dans la garde républicaine.
+
+(bg:(hsl:300,0.8039,0.5,0.5))[MADELEINE] 
+Vous êtes le dixième garde que je croise depuis ce matin. Allez-vous me demander mes papiers ? 
+
+(bg:(hsl:30, 0.6, 0.4))[ JEUNE GARDE]
+Je ne suis pas en activité en ce moment donc non, gardez vos papiers.
+
+//Madeleine souhaite poursuivre sa route mais ne sait toujours pas où se trouve la prison.//
+
+(bg:(hsl:300,0.8039,0.5,0.5))[MADELEINE] 
+Sauriez-vous où se trouve la prison de…(réfléchit) ? 
+
+(bg:(hsl:30, 0.6, 0.4))[ JEUNE GARDE]
+La Bastille ?
+
+(bg:(hsl:300,0.8039,0.5,0.5))[MADELEINE]
+OUI! enfin je crois. Vous y travaillez ? 
+
+JEUNE GARDE 
+Ça m'arrive d’y aller pour livrer les détenus. 
+
+(bg:(hsl:300,0.8039,0.5,0.5))[MADELEINE]
+Ah donc vous pouvez m'y conduire! En route!
+
+(bg:(hsl:30, 0.6, 0.4))[ JEUNE GARDE]
+Vous n’êtes pas une délinquante, à ce que je sache . L'êtes-vous ? 
+
+(bg:(hsl:300,0.8039,0.5,0.5))[MADELEINE] 
+N-non ! Bien sûr que non ! Je souhaite juste voir où ces odieux révolutionnaires se trouvent, afin de ne pas les croiser, vous voyez…  
+
+//Madeleine et le garde passent la journée ensemble. Ils ne discutent pas de la situation du pays mais plutôt de choses banales. Madeleine est contente de trouver dans la capitale une personne de son âge avec qui elle s’entend bien en plus de ça. Le jeune garde reste plutôt discret sur son travail, il ne souhaite pas mettre mal à l’aise Madeleine.
+
+A la fin de la journée, Madeleine se décide à évoquer son plan et lui demander son aide. //
+
+(bg:(hsl:300,0.8039,0.5,0.5))[MADELEINE] 
+Si je suis ici c’est pour retrouver et sauver mon père. Pour celà j’ai besoin de votre aide. 
+
+(bg:(hsl:30, 0.6, 0.4))[ JEUNE GARDE]
+En quoi puis-je vous aider ? 
+
+(bg:(hsl:300,0.8039,0.5,0.5))[MADELEINE] 
+La prison dans laquelle vous travailler, mon père y est enfermé depuis plusieurs jours. Son jugement ne va pas tarder à arriver et je crains le pire. 
+
+(bg:(hsl:30, 0.6, 0.4))[ JEUNE GARDE]
+Qu’a -t-il fait pour être emprisonné ? 
+
+(bg:(hsl:300,0.8039,0.5,0.5))[MADELEINE] 
+Il a dénoncé les conditions médiocres de nos vies en campagne dans son journal. Malheureusement la cour est tombée dessus et ils sont venus l’embarquer. S’il vous plaît aide moi à l’épargner de la sentence, il ne mérite pas tout ce qui lui arrive. 
+
+(bg:(hsl:30, 0.6, 0.4))[ JEUNE GARDE]
+Votre histoire me touche beaucoup mais je risquerai de moi même mourir si tu échoues, ce serait vu comme une trahison. Tout cela m’a l’air très risqué… 
+
+(bg:(hsl:300,0.8039,0.5,0.5))[MADELEINE] 
+Justement ! Ne voulez-vous pas en finir avec toute cette histoire ? Le Roi, la garde, le peuple doit se faire entendre et mon père pourrait être la clé de la délivrance. Je pense que vous ne le regretteras pas. 
+
+(bg:(hsl:30, 0.6, 0.4))[ JEUNE GARDE]
+Très bien mais je vous préviens, je ne vous garantis pas qu’on s’en sorte, ni qu’on arrive à  parvenir à ton père. 
+
+(bg:(hsl:300,0.8039,0.5,0.5))[MADELEINE] 
+Je veux prendre ce risque ! Pour mon père, pour notre liberté ! 
+
+//Le jeune garde est touché par les mots et la volonté de Madeleine. Il ne peut pas s’empêcher de croire en son envie. Il est décidé, il va l’aider.//
+
+(bg:(hsl:30, 0.6, 0.4))[ JEUNE GARDE]
+Avant qu’on se jette dans la gueule du lion, puis-je connaître votre nom ? 
+
+(bg:(hsl:300,0.8039,0.5,0.5))[MADELEINE] 
+Je m’appelle Madeleine. Et vous ? 
+
+(bg:(hsl:30, 0.6, 0.4))[ JEUNE GARDE]
+Léonard. 
+
+[[Arrivée à la bastille]]
+
+
+
+:: Un Jeu de Sang-Froid {"position":"1325,375","size":"100,100"}
+//EXT. Après un sommeil léger, Madeleine reprit ses esprits et mit son plan à exécution. Malheureusement ce n’est pas de tout repos, Madeleine aperçoit un garde qui semble hésiter une fraction de seconde à l'arrêter. Une jeune fille ici, à cette heure là, le garde trouve ça suspect. 
+
+L’héroïne choisit de coopérer et de jouer la carte de la discrétion en présentant des documents.//
+
+(bg:(hsl:30,1,0.5))[GARDE ]  
+Bien le bonjour, nous procédons à une vérification des papiers d’identité, pouvez vous me montrer ? 
+
+//Madeleine transpire intérieurement, mais fait de son mieux pour rester calme et naturelle.//
+
+(bg:(hsl:300,0.8039,0.5,0.5))[MADELEINE] 
+Bonjour, bien sûr. 
+
+//Le garde prend son temps pour examiner les papiers.//
+
+(bg:(hsl:30,1,0.5))[GARDE]  
+Ces documents semblent officiels. Que faites-vous ici à cette heure ?
+
+(bg:(hsl:300,0.8039,0.5,0.5))[MADELEINE] 
+Je suis juste de passage en ville, ma mère étant souffrante, je dois récupérer des médicaments pour elle.
+
+(bg:(hsl:30,1,0.5))[GARDE ] 
+Merci pour votre temps, Soyez prudente.
+
+//Après avoir convaincu le garde de la laisser passer, Madeleine avance prudemment dans les ruelles sombres. Son cœur bat encore vite, mais elle reste confiante, bien décidée à mener à bien son plan. Soudain, au détour d’une allée, elle trébuche légèrement et percute un jeune homme. Le choc est léger, mais leurs regards se croisent… //
+
+[[Quand l’Ennemi Devient un Allié]]
+
+
+:: Une Alliée Inattendue {"position":"800,350","size":"100,100"}
+//Voyant les gardes monter le ton, Madeleine cherche du regard une solution pour s’échapper de cette situation. Si les gardes commencent à poser trop de questions, elle n’est pas sûre de bien savoir mentir. Hors de question de mettre en péril son plan. 
+
+Au loin, une vieille dame sort de chez elle. Le groupe de la garde royale l'interpelle, elle se dirige lentement vers Madeleine.//
+
+(bg:(hsl:0,1,0.5))[ VIEILLE DAME ]
+EH vous là ! Laissez ma petite fille tranquille ! 
+
+(bg:(hsl:30,1,0.5))[GARDE 1] 
+Madame ne vous mêlez pas de ça s’il vous plaît. 
+
+(bg:(hsl:0,1,0.5))[ VIEILLE DAME ]
+Vous n’avez pas honte ?! Ma petite fille n’est pas une révolutionnaire voyons. 
+
+//Madeleine comprend que la dame veut l’aider à se sortir des gardes. Elle tente de suivre le bluff. //
+
+(bg:(hsl:300,0.8039,0.5,0.5))[MADELEINE] 
+Ah grand-mère te voilà ! J’ai récupéré ce que tu m’as demandé dans la forêt. Bonne journée messieurs. 
+
+//Sans perdre de temps, Madeleine contourne les gardes. //
+
+(bg:(hsl:300,0.8039,0.5,0.5))[MADELEINE] //chuchote//
+Merci beaucoup madame ! Comment puis-je vous remercier ? 
+
+(bg:(hsl:0,1,0.5))[ VIEILLE DAME ]
+Je n’ai pas besoin que tu me remercies. Ces gens-là sont juste les bourreaux de pauvres ! Si tu souhaites te reposer chez moi pendant quelques jours, viens. 
+
+(bg:(hsl:300,0.8039,0.5,0.5))[MADELEINE] 
+Non je dois me rendre à Paris de toute urgence mais merci de votre aide. A bientôt !
+
+//Madeleine reprend le chemin de sa route, soulagée d’être tombée sur cette dame bien aimable. //
+
+
+[[L’Épreuve des Brigands]] 
+
+
+:: StoryStylesheet [stylesheet]
+ tw-story {
+    background-color: #add8e6;
+    background-image: url('https://media.adeo.com/mkp/15f3c1b45b5364703e00b42e6c1f8c62/media.jpg?width=3000&height=3000&format=jpg&quality=80&fit=bounds');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+tw-story {
+    color: #000000; /* Met la couleur du texte en noir */
+}
